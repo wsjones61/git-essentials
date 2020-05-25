@@ -1,10 +1,3 @@
 # git-essentials
 
-
-## Deployment notes.
-
-## Staging notes.
-
-## How to use the repo notes.
-
-## Test entry.
+## Here are the notes to my test project.
